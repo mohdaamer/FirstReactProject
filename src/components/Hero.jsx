@@ -4,7 +4,7 @@ function Hero() {
   return (
     <main className='w-full h-[90vh] flex justify-center items-center'>
         <div className="w-[90%] h-[90%] bg-white lg:flex lg:w-[80%]">
-            <div className="lg:w-[50%]">
+            <div className="w-[50%]">
                 
                 <h1 className='text-center font-extrabold text-5xl mb-5 lg:text-[108px] uppercase lg:leading-[102px] lg:text-left'>Your Feet Deserve The Best</h1>
 
@@ -22,7 +22,7 @@ function Hero() {
                 </div>
             </div>
 
-            <div className="image flex my-4 justify-center lg:w-[50%] lg:items-center">
+            <div className="image flex my-4 justify-center w-[50%] lg:items-center">
                 <img className='h-[40vh] md:h-[50vh] lg:h-[70vh]' src="./images/shoe_image.png" alt="" />
             </div>
         </div>
