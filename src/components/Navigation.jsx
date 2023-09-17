@@ -7,7 +7,7 @@ function navbar() {
       <div className="navwrapper w-full flex justify-center shadow-lg">
       <nav className="w-[80%] h-[10vh] flex justify-between items-center">
         <div className="logo">
-          <img className="cursor-pointer" src="\images\brand_logo.png" alt="" />
+          <img className="cursor-pointer" src=".\images\brand_logo.png" alt="" />
         </div>
 
         <div className="center hidden lg:block">

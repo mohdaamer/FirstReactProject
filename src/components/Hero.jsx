@@ -17,8 +17,8 @@ function Hero() {
                 
                 <p className='text-center lg:text-left'>Also Available On</p>
                 <div className="smallimages flex gap-3 justify-center lg:justify-start">
-                    <img src="/images/amazon.png" alt="" />
-                    <img src="/images/flipkart.png" alt="" />
+                    <img src="./images/amazon.png" alt="" />
+                    <img src="./images/flipkart.png" alt="" />
                 </div>
             </div>
 
