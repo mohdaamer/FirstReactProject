@@ -4,9 +4,9 @@ function Hero() {
   return (
     <main className='w-full h-[90vh] flex justify-center items-center'>
         <div className="w-[90%] h-[90%] bg-white lg:flex lg:w-[80%]">
-            <div className="lg:w-[50%] lg:py-16">
+            <div className="lg:w-[50%]">
                 
-                <h1 className='text-center font-extrabold text-5xl mb-5 lg:text-[108px] lg:w-[80%] uppercase lg:leading-[102px] lg:text-left'>Your Feet Deserve The Best</h1>
+                <h1 className='text-center font-extrabold text-5xl mb-5 lg:text-[108px] uppercase lg:leading-[102px] lg:text-left'>Your Feet Deserve The Best</h1>
 
                 <p className='w-[70%] text-center mx-auto lg:text-left lg:mx-0'>YOUR FEET DESERVE THE BEST AND WE’RE HERE TO HELP YOU WITH OUR SHOES.YOUR FEET DESERVE THE BEST AND WE’RE HERE TO HELP YOU WITH OUR SHOES.</p>
 
@@ -23,7 +23,7 @@ function Hero() {
             </div>
 
             <div className="image flex my-4 justify-center lg:w-[50%] lg:items-center">
-                <img className='h-[40vh] md:h-[50vh] lg:h-[70vh]' src="/images/shoe_image.png" alt="" />
+                <img className='h-[40vh] md:h-[50vh] lg:h-[70vh]' src="./images/shoe_image.png" alt="" />
             </div>
         </div>
     </main>
