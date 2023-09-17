@@ -12,10 +12,10 @@ function navbar() {
 
         <div className="center hidden lg:block">
         <ul className="flex gap-10">
-          <li><a className="text-xl font-semibold hover:border-b-2 border-red-500" href="#">Menu</a></li>
-          <li><a className="text-xl font-semibold hover:border-b-2 border-red-500" href="#">Location</a></li>
-          <li><a className="text-xl font-semibold hover:border-b-2 border-red-500" href="#">About</a></li>
-          <li><a className="text-xl font-semibold hover:border-b-2 border-red-500" href="#">Contact</a></li>
+          <li><a className="text-lg font-medium hover:border-b-2 border-red-500" href="#">Menu</a></li>
+          <li><a className="text-lg font-medium hover:border-b-2 border-red-500" href="#">Location</a></li>
+          <li><a className="text-lg font-medium hover:border-b-2 border-red-500" href="#">About</a></li>
+          <li><a className="text-lg font-medium hover:border-b-2 border-red-500" href="#">Contact</a></li>
         </ul>
         </div>
 
